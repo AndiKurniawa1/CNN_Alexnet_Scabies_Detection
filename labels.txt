@@ -1,0 +1,3 @@
+0 Scabies
+1 Melanoma
+2 Nevus
